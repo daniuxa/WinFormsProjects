@@ -1,0 +1,17 @@
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\bin\Debug\FormsLibrary.exe.config
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\bin\Debug\FormsLibrary.exe
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\bin\Debug\FormsLibrary.pdb
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\obj\Debug\FormsLibrary.csproj.AssemblyReference.cache
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\obj\Debug\FormsLibrary.Properties.Resources.resources
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\obj\Debug\FormsLibrary.csproj.GenerateResource.cache
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\obj\Debug\FormsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\obj\Debug\FormsLibrary.exe
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\obj\Debug\FormsLibrary.pdb
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\obj\Debug\FormsLibrary.ClientForm.resources
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\obj\Debug\FormsLibrary.FilterForm.resources
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\obj\Debug\FormsLibrary.BookListForm.resources
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\obj\Debug\FormsLibrary.CartForm.resources
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\obj\Debug\FormsLibrary.ClientInfoEntryForm.resources
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\obj\Debug\FormsLibrary.SuccessfulOrderForm.resources
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\obj\Debug\FormsLibrary.ListClientForm.resources
+C:\Users\saliv\source\repos\FormsLibrary\FormsLibrary\obj\Debug\FormsLibrary.AdminBookForm.resources

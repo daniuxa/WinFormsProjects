@@ -1,0 +1,15 @@
+C:\Users\saliv\source\repos\Motosalon\Motosalon\bin\Debug\Motosalon.exe.config
+C:\Users\saliv\source\repos\Motosalon\Motosalon\bin\Debug\Motosalon.exe
+C:\Users\saliv\source\repos\Motosalon\Motosalon\bin\Debug\Motosalon.pdb
+C:\Users\saliv\source\repos\Motosalon\Motosalon\obj\Debug\Motosalon.csproj.AssemblyReference.cache
+C:\Users\saliv\source\repos\Motosalon\Motosalon\obj\Debug\Motosalon.MainForm.resources
+C:\Users\saliv\source\repos\Motosalon\Motosalon\obj\Debug\Motosalon.Properties.Resources.resources
+C:\Users\saliv\source\repos\Motosalon\Motosalon\obj\Debug\Motosalon.csproj.GenerateResource.cache
+C:\Users\saliv\source\repos\Motosalon\Motosalon\obj\Debug\Motosalon.csproj.CoreCompileInputs.cache
+C:\Users\saliv\source\repos\Motosalon\Motosalon\obj\Debug\Motosalon.exe
+C:\Users\saliv\source\repos\Motosalon\Motosalon\obj\Debug\Motosalon.pdb
+C:\Users\saliv\source\repos\Motosalon\Motosalon\obj\Debug\Motosalon.ClientInfoEntryForm.resources
+C:\Users\saliv\source\repos\Motosalon\Motosalon\obj\Debug\Motosalon.SuccessfulOrderForm.resources
+C:\Users\saliv\source\repos\Motosalon\Motosalon\obj\Debug\Motosalon.ListClientsForm.resources
+C:\Users\saliv\source\repos\Motosalon\Motosalon\obj\Debug\Motosalon.AdminMotoListForm.resources
+C:\Users\saliv\source\repos\Motosalon\Motosalon\obj\Debug\Motosalon.csproj.SuggestedBindingRedirects.cache

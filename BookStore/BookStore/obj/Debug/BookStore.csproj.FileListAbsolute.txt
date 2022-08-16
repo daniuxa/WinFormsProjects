@@ -1,0 +1,17 @@
+C:\Users\saliv\source\repos\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\saliv\source\repos\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\saliv\source\repos\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\saliv\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\saliv\source\repos\BookStore\BookStore\obj\Debug\BookStore.MainForm.resources
+C:\Users\saliv\source\repos\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\saliv\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\saliv\source\repos\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\saliv\source\repos\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\saliv\source\repos\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\saliv\source\repos\BookStore\BookStore\obj\Debug\BookStore.FilterForm.resources
+C:\Users\saliv\source\repos\BookStore\BookStore\obj\Debug\BookStore.BookList.resources
+C:\Users\saliv\source\repos\BookStore\BookStore\obj\Debug\BookStore.ClientInfoEntry.resources
+C:\Users\saliv\source\repos\BookStore\BookStore\obj\Debug\BookStore.CartForm.resources
+C:\Users\saliv\source\repos\BookStore\BookStore\obj\Debug\BookStore.SuccessfulOrder.resources
+C:\Users\saliv\source\repos\BookStore\BookStore\obj\Debug\BookStore.AdminClientForm.resources
+C:\Users\saliv\source\repos\BookStore\BookStore\obj\Debug\BookStore.AdminBooksForm.resources
